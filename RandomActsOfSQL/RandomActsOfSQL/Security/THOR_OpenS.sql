@@ -1,0 +1,2 @@
+﻿CREATE USER [THOR\OpenS] FOR LOGIN [THOR\OpenS];
+
